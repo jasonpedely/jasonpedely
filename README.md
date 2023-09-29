@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey! I'm Jason 👋
+### Hey! 👋
 ### Welcome to my GitHub profile :) I'm Jason, a Data Engineer at Angel Studios, currently living in Utah. 
 
 - 🔭 I’m currently working on designing data intensive applications

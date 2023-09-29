@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hey! I'm Jason 👋
 ### Welcome to my GitHub profile :) I'm Jason, a Data Engineer at Angel Studios, currently living in Utah. 
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on designing data intensive applications
 - 🌱 I’m currently learning how to solve Data Engineering problems at scale
 - 💬 Ask me about Data Engineering Best Practices
 - 😄 Pronouns: He/Him
@@ -32,5 +32,5 @@ This is where I keep my code and projects. Feel free to look around and contact 
 
 ### 📫 How to reach me: 
 #### Email: github.upwind377@passinbox.com
-#### LinkedIn: www.linkedin.com/in/jasonpedely/
+#### LinkedIn: www.linkedin.com/in/jasonpedely
 

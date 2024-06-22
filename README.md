@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey! I'm Jason 👋
-#### I enjoy answering complex questions and solving problems using different kinds of data analysis techniques inlcuding predictive analytics. 
+#### I enjoy answering complex questions and solving problems using different kinds of data analysis techniques. 
 
 
 - 🔭 I’m currently working on Data Engineering projects using SQL and Python

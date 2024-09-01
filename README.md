@@ -27,8 +27,6 @@ Here are some ideas to get you started:
   
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
 
-### 👨‍💻 Data Projects I've Made:
-
 ### 📫 How to reach me: 
 #### Email: pedelyj@gmail.com
 #### LinkedIn: www.linkedin.com/in/jasonpedely

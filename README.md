@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Data Engineering projects using SQL and Python
 - 🌱 I’m currently learning how to solve Data Engineering problems at scale
 - 💬 Ask me about Data Engineering Best Practices
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy baking!
 - 🤝 Connect with me on LinkedIn: www.linkedin.com/in/jasonpedely
 - 🎈 In my free time, I like to read and spend time with my family
